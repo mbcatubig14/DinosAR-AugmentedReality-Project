@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="VelociraptorC" size="50.000000 19.750000" />
+    <ImageTarget name="triceratops" size="50.000000 25.125000" />
+    <ImageTarget name="tyran" size="50.000000 25.875000" />
+    <ImageTarget name="Allosaurus" size="50.000000 42.506458" />
+    <ImageTarget name="stones_hires" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>
