@@ -1,3 +1,5 @@
 #DinosAR-AugmentedReality-Project
-<iframe width="100%" src="https://www.youtube.com/embed/2tlenoFqqv4" frameborder="0" allowfullscreen></iframe>
-This small project was created in Unity3D with Vuforia Augmented Reality Framework. I enjoy experimenting on this project and therefore did some coding to do some interaction.
+
+https://youtu.be/2tlenoFqqv4
+
+This is a small project created in Unity3D with Vuforia Augmented Reality Framework. I enjoy experimenting on Augmented reality and therefore did some coding to do some interaction with the user interface.
